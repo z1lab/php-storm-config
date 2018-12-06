@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="send-form" type="JavaScript" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
