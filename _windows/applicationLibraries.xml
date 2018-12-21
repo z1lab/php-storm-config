@@ -168,6 +168,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="slick" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.2_vendor_slick-carousel_slick_slick.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.2_vendor_slick-carousel_slick_slick.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="solid" type="javaScript">
       <properties>
         <sourceFilesUrls>
