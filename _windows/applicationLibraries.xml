@@ -72,6 +72,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="dzsparallaxer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.1_vendor_dzsparallaxer_dzsparallaxer.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.1_vendor_dzsparallaxer_dzsparallaxer.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="fontawesome" type="javaScript">
       <properties>
         <sourceFilesUrls>
