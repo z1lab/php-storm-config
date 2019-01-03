@@ -146,6 +146,17 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="pace" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_vendor_pace_1.0.2_pace.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_vendor_pace_1.0.2_pace.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="popper" type="javaScript">
       <properties>
         <sourceFilesUrls>
