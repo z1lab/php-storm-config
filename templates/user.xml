@@ -41,7 +41,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="cdn" value="https://cdn.z1lab.com.br/$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="cdn" value="https://s3.us-east-2.amazonaws.com/cdn-z1lab/$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="true" />
@@ -64,6 +64,24 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="false" />
       <option name="VUE_SCRIPT" value="false" />
       <option name="VUE_TOP_LEVEL" value="false" />
+    </context>
+  </template>
+  <template name="front" value="https://s3.us-east-2.amazonaws.com/cdn-z1lab/template/front/2.0.1/$END$" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HAML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="JSX_HTML" value="true" />
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+      <option name="PHP Comment" value="true" />
+      <option name="PHP String Literal" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="VUE_SCRIPT" value="false" />
     </context>
   </template>
 </templateSet>
