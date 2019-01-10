@@ -100,10 +100,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.1_vendor_gmaps_gmaps.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.2_vendor_gmaps_gmaps.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.1_vendor_gmaps_gmaps.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.z1lab.com.br_template_front_2.0.2_vendor_gmaps_gmaps.js" />
       </CLASSES>
       <SOURCES />
     </library>
