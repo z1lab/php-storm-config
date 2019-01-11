@@ -66,7 +66,7 @@
       <option name="VUE_TOP_LEVEL" value="false" />
     </context>
   </template>
-  <template name="front" value="{{ getenv('AWS_CDN_ENDPOINT') }}/template/front/2.0.1/$END$" toReformat="false" toShortenFQNames="true">
+  <template name="front" value="{{ getenv('AWS_CDN_ENDPOINT') }}/template/front/2.0.1/$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="ECMAScript6" value="false" />
