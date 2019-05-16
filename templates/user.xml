@@ -41,7 +41,7 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="cdn" value="{{ getenv('AWS_CDN_ENDPOINT') }}/$END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="cdn" value="{{ config('theme.cdn_url') }}$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="true" />
