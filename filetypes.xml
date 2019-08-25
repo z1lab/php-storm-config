@@ -5,8 +5,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="send-form" type="JavaScript" />
       <mapping ext="stub" type="PHP" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="origin)" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
