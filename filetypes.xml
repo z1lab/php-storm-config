@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="send-form" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="origin)" type="PLAIN_TEXT" />
