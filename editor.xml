@@ -1,7 +1,6 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
 </application>
