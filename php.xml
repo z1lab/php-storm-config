@@ -4,7 +4,7 @@
       <interpreter id="c3f18d22-cd30-4345-8a10-2701b32ebaee" name="PHP 7.4" home="C:\Developer\laragon\bin\php\php-7.4.10-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="a4ed6ae5-dc1a-461e-8098-e3f0cf0096d8" name="PHP 7.2" home="C:\Developer\laragon\bin\php\php-7.2.19-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="462f0477-b8ae-4e83-b808-f6f46dc77fd4" name="PHP 7.3" home="C:\Developer\laragon\bin\php\php-7.3.10-Win32-VC15-x64\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="f9913ecb-f04f-4ed9-ba7b-007d0a67465b" name="PHP 8.0" home="C:\Developer\laragon\bin\php\php-8.0.11-Win32-vs16-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f9913ecb-f04f-4ed9-ba7b-007d0a67465b" name="PHP 8.0" home="C:\Developer\Laragon\bin\php\php-8.0.15-Win32-vs16-x64\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -102,11 +102,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 8.0">
-        <phpinfo binary_type="PHP" php_cgi="C:\Developer\laragon\bin\php\php-8.0.11-Win32-vs16-x64\php-cgi.exe" php_cli="C:\Developer\laragon\bin\php\php-8.0.11-Win32-vs16-x64\php.exe" path_separator=";" version="8.0.11">
+        <phpinfo binary_type="PHP" php_cgi="C:\Developer\Laragon\bin\php\php-8.0.15-Win32-vs16-x64\php-cgi.exe" php_cli="C:\Developer\Laragon\bin\php\php-8.0.15-Win32-vs16-x64\php.exe" path_separator=";" version="8.0.15">
           <additional_php_ini />
-          <configuration_file>C:\Developer\laragon\bin\php\php-8.0.11-Win32-vs16-x64\php.ini</configuration_file>
+          <configuration_file>C:\Developer\Laragon\bin\php\php-8.0.15-Win32-vs16-x64\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".;C:/Developer/laragon/etc/php/pear" />
+            <configuration_option name="include_path" value=".;C:/Developer/Laragon/etc/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -122,6 +122,7 @@
             <extension name="curl" />
             <extension name="date" />
             <extension name="dom" />
+            <extension name="exif" />
             <extension name="fileinfo" />
             <extension name="filter" />
             <extension name="gd" />
