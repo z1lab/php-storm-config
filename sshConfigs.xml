@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="api.winx.ai" id="e9d6ee58-af11-4b62-a3c6-11eec5f3ea22" keyPath="G:\Meu Drive\Winx\AWS Credentials\winx-ec2-us-east-1.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
