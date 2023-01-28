@@ -1,10 +1,10 @@
 <application>
   <component name="LaravelHammerState">
     <option name="countInspections" value="5" />
-    <option name="countProjects" value="201" />
+    <option name="countProjects" value="202" />
     <option name="installedAt" value="1666809114" />
     <option name="pluginFreshInstalled" value="true" />
-    <option name="pluginVersion" value="0.2.0" />
+    <option name="pluginVersion" value="0.2.1" />
     <option name="reviewAfter" value="1674911344" />
   </component>
 </application>
