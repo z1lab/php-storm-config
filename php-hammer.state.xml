@@ -1,7 +1,7 @@
 <application>
   <component name="PHPHammerState">
     <option name="countFixes" value="65" />
-    <option name="countInspections" value="1909" />
+    <option name="countInspections" value="1912" />
     <option name="countProjects" value="262" />
     <option name="installedAt" value="1665498013" />
     <option name="pluginFreshInstalled" value="true" />
